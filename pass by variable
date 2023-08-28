@@ -6,4 +6,4 @@ for($i=1;$i<=10;$i++){
         $missingele[]=$i;
     }
 }
-print_r($missingele);
+print_r($missingele);fdnsmj
